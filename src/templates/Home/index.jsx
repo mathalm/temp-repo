@@ -10,7 +10,7 @@ export class Home extends Component {
     posts: [],
     allPost: [],
     page: 0,
-    postsPerPage: 9,
+    postsPerPage: 2,
     searchValue: "",
   };
   async componentDidMount() {
